@@ -1,0 +1,156 @@
+2022-09-15 15:08:45 - PHP Notice:  Undefined variable: customer_group_id in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/account/register.php on line 215
+2022-09-19 23:29:03 - PHP Warning:  Use of undefined constant OPENCART_SERVER - assumed 'OPENCART_SERVER' (this will throw an Error in a future version of PHP) in /var/www/vhosts/bursasharks.com/httpdocs/card/admin/controller/extension/extension/promotion.php on line 6
+2022-09-19 23:29:11 - PHP Warning:  Use of undefined constant OPENCART_SERVER - assumed 'OPENCART_SERVER' (this will throw an Error in a future version of PHP) in /var/www/vhosts/bursasharks.com/httpdocs/card/admin/controller/extension/extension/promotion.php on line 6
+2022-09-20 10:41:44 - PHP Notice:  Array to string conversion in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 33
+2022-09-20 10:46:13 - PHP Notice:  Undefined variable: sp in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 36
+2022-09-20 10:46:13 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 36
+2022-09-20 10:46:13 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 37
+2022-09-20 10:46:13 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 36
+2022-09-20 10:46:13 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 37
+2022-09-20 16:08:17 - PHP Notice:  Undefined variable: data in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 95
+2022-09-21 12:56:44 - PHP Notice:  Undefined variable: poker in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 12:56:44 - PHP Warning:  current() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 86
+2022-09-21 12:56:44 - PHP Warning:  next() expects parameter 1 to be array, null given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 92
+2022-09-21 15:22:35 - PHP Warning:  array_push() expects parameter 1 to be array, string given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 108
+2022-09-21 15:22:35 - PHP Warning:  array_push() expects parameter 1 to be array, string given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 108
+2022-09-21 15:22:35 - PHP Warning:  array_push() expects parameter 1 to be array, string given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 108
+2022-09-21 15:22:35 - PHP Warning:  array_push() expects parameter 1 to be array, string given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 108
+2022-09-21 15:22:35 - PHP Warning:  array_push() expects parameter 1 to be array, string given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 108
+2022-09-21 15:22:35 - PHP Warning:  array_push() expects parameter 1 to be array, string given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 108
+2022-09-21 15:22:35 - PHP Warning:  array_push() expects parameter 1 to be array, string given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 108
+2022-09-21 15:22:35 - PHP Warning:  array_push() expects parameter 1 to be array, string given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 108
+2022-09-21 15:22:35 - PHP Warning:  array_push() expects parameter 1 to be array, string given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 108
+2022-09-21 15:22:35 - PHP Warning:  array_push() expects parameter 1 to be array, string given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 108
+2022-09-21 15:22:45 - PHP Warning:  array_push() expects parameter 1 to be array, string given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 108
+2022-09-21 15:22:45 - PHP Warning:  array_push() expects parameter 1 to be array, string given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 108
+2022-09-21 15:22:45 - PHP Warning:  array_push() expects parameter 1 to be array, string given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 108
+2022-09-21 15:22:45 - PHP Warning:  array_push() expects parameter 1 to be array, string given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 108
+2022-09-21 15:22:45 - PHP Warning:  array_push() expects parameter 1 to be array, string given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 108
+2022-09-21 15:22:45 - PHP Warning:  array_push() expects parameter 1 to be array, string given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 108
+2022-09-21 15:22:45 - PHP Warning:  array_push() expects parameter 1 to be array, string given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 108
+2022-09-21 15:22:45 - PHP Warning:  array_push() expects parameter 1 to be array, string given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 108
+2022-09-21 15:22:45 - PHP Warning:  array_push() expects parameter 1 to be array, string given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 108
+2022-09-21 15:22:45 - PHP Warning:  array_push() expects parameter 1 to be array, string given in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 108
+2022-09-21 15:24:54 - PHP Notice:  Array to string conversion in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/model/play/game.php on line 5
+2022-09-21 15:24:54 - PHP Notice:  Array to string conversion in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 116
+2022-09-21 15:27:12 - PHP Notice:  Array to string conversion in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 106
+2022-09-21 15:27:12 - PHP Notice:  Array to string conversion in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 116
+2022-09-21 15:27:25 - PHP Notice:  Array to string conversion in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/play/game.php on line 106
+2022-09-21 16:29:53 - PHP Notice:  Array to string conversion in /var/www/vhosts/bursasharks.com/httpdocs/card/storage/cache/template/f0/f0dec7d45e30a17aee2f8c7528c516133059e6790d28398972554a077eadd0ec.php on line 143
+2022-09-21 16:29:53 - PHP Notice:  Array to string conversion in /var/www/vhosts/bursasharks.com/httpdocs/card/storage/cache/template/f0/f0dec7d45e30a17aee2f8c7528c516133059e6790d28398972554a077eadd0ec.php on line 143
+2022-09-21 16:29:53 - PHP Notice:  Array to string conversion in /var/www/vhosts/bursasharks.com/httpdocs/card/storage/cache/template/f0/f0dec7d45e30a17aee2f8c7528c516133059e6790d28398972554a077eadd0ec.php on line 143
+2022-09-21 16:29:53 - PHP Notice:  Array to string conversion in /var/www/vhosts/bursasharks.com/httpdocs/card/storage/cache/template/f0/f0dec7d45e30a17aee2f8c7528c516133059e6790d28398972554a077eadd0ec.php on line 143
+2022-09-21 16:29:53 - PHP Notice:  Array to string conversion in /var/www/vhosts/bursasharks.com/httpdocs/card/storage/cache/template/f0/f0dec7d45e30a17aee2f8c7528c516133059e6790d28398972554a077eadd0ec.php on line 143
+2022-09-21 16:29:53 - PHP Notice:  Array to string conversion in /var/www/vhosts/bursasharks.com/httpdocs/card/storage/cache/template/f0/f0dec7d45e30a17aee2f8c7528c516133059e6790d28398972554a077eadd0ec.php on line 143
+2022-09-21 16:29:53 - PHP Notice:  Array to string conversion in /var/www/vhosts/bursasharks.com/httpdocs/card/storage/cache/template/f0/f0dec7d45e30a17aee2f8c7528c516133059e6790d28398972554a077eadd0ec.php on line 143
+2022-09-21 16:29:53 - PHP Notice:  Array to string conversion in /var/www/vhosts/bursasharks.com/httpdocs/card/storage/cache/template/f0/f0dec7d45e30a17aee2f8c7528c516133059e6790d28398972554a077eadd0ec.php on line 143
+2022-09-21 16:29:53 - PHP Notice:  Array to string conversion in /var/www/vhosts/bursasharks.com/httpdocs/card/storage/cache/template/f0/f0dec7d45e30a17aee2f8c7528c516133059e6790d28398972554a077eadd0ec.php on line 143
+2022-09-21 16:29:53 - PHP Notice:  Array to string conversion in /var/www/vhosts/bursasharks.com/httpdocs/card/storage/cache/template/f0/f0dec7d45e30a17aee2f8c7528c516133059e6790d28398972554a077eadd0ec.php on line 143
+2022-09-21 16:30:06 - PHP Notice:  Array to string conversion in /var/www/vhosts/bursasharks.com/httpdocs/card/storage/cache/template/30/30a8d807b88a6590808d8dd886cecfd3b6a4c481ca4bec14afcc2359ecb7f194.php on line 143
+2022-09-21 16:30:06 - PHP Notice:  Array to string conversion in /var/www/vhosts/bursasharks.com/httpdocs/card/storage/cache/template/30/30a8d807b88a6590808d8dd886cecfd3b6a4c481ca4bec14afcc2359ecb7f194.php on line 143
+2022-09-21 16:30:06 - PHP Notice:  Array to string conversion in /var/www/vhosts/bursasharks.com/httpdocs/card/storage/cache/template/30/30a8d807b88a6590808d8dd886cecfd3b6a4c481ca4bec14afcc2359ecb7f194.php on line 143
+2022-09-21 16:30:06 - PHP Notice:  Array to string conversion in /var/www/vhosts/bursasharks.com/httpdocs/card/storage/cache/template/30/30a8d807b88a6590808d8dd886cecfd3b6a4c481ca4bec14afcc2359ecb7f194.php on line 143
+2022-09-21 16:30:06 - PHP Notice:  Array to string conversion in /var/www/vhosts/bursasharks.com/httpdocs/card/storage/cache/template/30/30a8d807b88a6590808d8dd886cecfd3b6a4c481ca4bec14afcc2359ecb7f194.php on line 143
+2022-09-21 16:30:06 - PHP Notice:  Array to string conversion in /var/www/vhosts/bursasharks.com/httpdocs/card/storage/cache/template/30/30a8d807b88a6590808d8dd886cecfd3b6a4c481ca4bec14afcc2359ecb7f194.php on line 143
+2022-09-21 16:30:06 - PHP Notice:  Array to string conversion in /var/www/vhosts/bursasharks.com/httpdocs/card/storage/cache/template/30/30a8d807b88a6590808d8dd886cecfd3b6a4c481ca4bec14afcc2359ecb7f194.php on line 143
+2022-09-21 16:30:06 - PHP Notice:  Array to string conversion in /var/www/vhosts/bursasharks.com/httpdocs/card/storage/cache/template/30/30a8d807b88a6590808d8dd886cecfd3b6a4c481ca4bec14afcc2359ecb7f194.php on line 143
+2022-09-21 16:30:06 - PHP Notice:  Array to string conversion in /var/www/vhosts/bursasharks.com/httpdocs/card/storage/cache/template/30/30a8d807b88a6590808d8dd886cecfd3b6a4c481ca4bec14afcc2359ecb7f194.php on line 143
+2022-09-21 16:30:06 - PHP Notice:  Array to string conversion in /var/www/vhosts/bursasharks.com/httpdocs/card/storage/cache/template/30/30a8d807b88a6590808d8dd886cecfd3b6a4c481ca4bec14afcc2359ecb7f194.php on line 143

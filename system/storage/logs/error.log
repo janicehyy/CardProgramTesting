@@ -1,0 +1,1 @@
+2022-09-15 15:08:45 - PHP Notice:  Undefined variable: customer_group_id in /var/www/vhosts/bursasharks.com/httpdocs/card/catalog/controller/account/register.php on line 215
